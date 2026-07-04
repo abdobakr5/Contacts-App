@@ -2,16 +2,6 @@
 
 Route Contacts App is a Flutter application that helps users manage their personal contacts through a clean and intuitive interface.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Videos -->
+Opening: https://drive.google.com/file/d/1kNYnzJBzTW1EOWcue1XE7HQoKH1KdrZR/view?usp=sharing
+App: https://drive.google.com/file/d/1OOnVyfs-T1g2P5a4fvVc4VdnJzUtf9fU/view?usp=sharing
